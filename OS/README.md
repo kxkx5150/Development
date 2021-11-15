@@ -3,7 +3,7 @@
 <br><br>
 
 ## [Operating System Development Series](http://www.brokenthorn.com/Resources/OSDevIndex.html)  
-the public domain
+public
 
 <br>
 

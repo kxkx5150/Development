@@ -14,8 +14,6 @@ DeepLにぶっこんだだけなので、レイアウトが崩れる、おかし
 
 # OS自作資料
 
-<br><br><br>
-
-
+https://github.com/kxkx5150/Development/tree/main/OS
 
 

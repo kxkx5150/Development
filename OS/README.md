@@ -28,6 +28,8 @@ MIT license
 
 ## 日本語
 
+### [Linux JF (Japanese FAQ) Project.](http://linuxjf.osdn.jp)  
+
 ### [オペレーティングシステム論 の講義資料](https://language-and-engineering.hatenablog.jp/entry/20140510/OperatingSystemLectureNotePDFLinks)  
 
 ### [ Writing an OS in Rust](https://os.phil-opp.com/ja/)  

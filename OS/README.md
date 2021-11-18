@@ -2,6 +2,10 @@
 
 <br><br>
 
+## [A Heavily Commented Linux Kernel Source Code](http://oldlinux.org/download/ECLK-5.0.1-WithCover.pdf)  
+
+<br>
+
 ## [Operating System Development Series](http://www.brokenthorn.com/Resources/OSDevIndex.html)  
 
 <br>
